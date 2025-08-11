@@ -175,7 +175,7 @@ export async function GET() {
               schema: {
                 type: "string",
               },
-              description: "The Bitcon mainnet wallet address of receiver",
+              description: "The Bitcoin mainnet wallet address of receiver",
             },
             {
               name: "btcAmountInSatoshi",
